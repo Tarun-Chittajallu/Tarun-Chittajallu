@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tarun-Chittajallu
-- 🚀 With four years of experience in the software engineering realm, I’ve developed many solutions and battled countless bugs by navigating through the wild world of full-stack development. My trusty sidekicks are SQL,Python,C#,Angular, React, JavaScript, HTML and CSS! 🛠️
+- 🚀 Five years of experience in the software engineering realm, I’ve developed many solutions and battled countless bugs by navigating through the wild world of full-stack development. My trusty sidekicks are SQL,Python,C#,Angular, React, JavaScript, HTML and CSS! 🛠️
 - 📊 But wait, there's more! I’ve got a Master’s in Data Science up my sleeve, making me a data detective ready to uncover insights and solve mysteries using R,Python and SQL. 🔍✨
 - 🌐 Passionate about open source and contributing to meaningful projects. Always eager to learn and collaborate!
 - 😄 Pronouns: He/Him
